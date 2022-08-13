@@ -1,0 +1,5 @@
+---
+
+- name: set clock to use local rtc (thanks windows -.-)
+  community.general.timezone:
+    hwclock: local
