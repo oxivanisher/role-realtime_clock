@@ -2,6 +2,7 @@
 
 galaxy_info:
   role_name: realtime_clock
+  namespace: oxivanisher
   author: Marc Urben
   description: Configure realtime clock
   company: Thunderbluff
