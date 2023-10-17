@@ -52,7 +52,5 @@ galaxy_info:
   galaxy_tags:
     - rtc
 
-dependencies: []
-
-collections:
-  - community.general
+dependencies:
+  - role: community.general.timezone
