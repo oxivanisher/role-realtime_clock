@@ -53,4 +53,5 @@ galaxy_info:
     - rtc
 
 dependencies:
-  - role: community.general.timezone
+  []
+  # - role: community.general.timezone
