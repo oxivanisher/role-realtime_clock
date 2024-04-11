@@ -2,3 +2,5 @@
 - name: Set clock to use local rtc (thanks windows -.-)
   community.general.timezone:
     hwclock: local
+  become: true
+  become_user: root
